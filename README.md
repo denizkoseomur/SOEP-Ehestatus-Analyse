@@ -1,7 +1,3 @@
-from pathlib import Path
-
-content = """# SOEP-Datenanalyse: Einkommen, Lebenszufriedenheit und Ehestatus
-
 ## Projektbeschreibung
 
 Dieses Projekt untersucht mithilfe von Daten des **Sozio-oekonomischen Panels (SOEP)**, welchen Zusammenhang Einkommen und Lebenszufriedenheit mit der Wahrscheinlichkeit haben, verheiratet zu sein.
