@@ -78,9 +78,4 @@ Weitere Informationen zum SOEP und zum Datenzugang sind beim **Deutschen Institu
 ## Ziel des Projekts
 
 Das Projekt demonstriert die praktische Anwendung ökonometrischer Methoden auf reale Mikrodaten und verbindet dabei Datenaufbereitung, statistische Modellierung und wirtschaftswissenschaftliche Interpretation.
-"""
 
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-
-print(f"Datei erstellt: {path}")
